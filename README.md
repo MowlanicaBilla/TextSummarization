@@ -1,4 +1,4 @@
-#Summarizer
+# Summarizer
 
 **What you can do using this file..?!**
 
@@ -49,13 +49,13 @@ Youtube Video Id: KR0g-1hnQPA
 Number of Sentences: 5
 ```
 
-### 3. Spicework topic pages
+### 3. Spiceworks topic pages
 Enter the url of the topic pages, it will summarize the content
 
 Example
 ```
 For the topic page :
-Number od sentences: 2
+Number of sentences: 2
 ```
 
 
@@ -69,6 +69,8 @@ Text Area: Copy SampleData.txt into that text area
 Number of Sentences: 10
 ```
 
+### 5. PDF or Text Files
 
+Upload a text or pdf file, select the number of sentences you would want the summary to be
 
 
